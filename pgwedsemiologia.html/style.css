@@ -1,0 +1,38 @@
+body{
+    background-image:url("fondo\ marmol.webp");
+
+}
+ul{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    width: 30%;
+    overflow:hidden;
+    
+}
+li a{
+    display:block;
+    text-align: center;
+    padding: 30px;
+    width: 60px;
+    background-color: #bd7df8;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: #a44fad;
+    color:azure
+}
+h1{
+    text-align: center;
+color:rgb(174, 113, 22)
+
+}
+h3{
+    text-align: center;
+    color:rgb(174, 113, 22) ;
+    background-color: blanchedalmond;
+}
+p{
+    background-color: blanchedalmond;
+}
+
